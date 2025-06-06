@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tribute to Elon Musk</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            text-align: center;
+        }
+
+        header {
+            background-color: #0073e6;
+            color: white;
+            padding: 20px;
+        }
+
+        .bio, .legacy {
+            margin: 20px;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .profile-pic {
+            imagecrs=ELON MUSK.jpg
+            width: 150px;
+            border-radius: 50%;
+        }
+
+        footer {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #333;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+<img src="ELONMUSK.jpg"border=1 width=150px height=100>
+    <header>
+        <h1>Tribute to Elon Musk</h1>
+        <p>A visionary entrepreneur shaping the future</p>
+    </header>
+    
+    <section class="bio">
+        <img src="elon-musk.jpg" alt="Elon Musk" class="profile-pic">
+        <p>Elon Musk is a pioneering entrepreneur known for revolutionizing industries such as space exploration, electric vehicles, and artificial intelligence. His relentless pursuit of innovation has transformed the way we think about technology and sustainability.</p>
+    </section>
+
+    <section class="legacy">
+        <h2>Achievements and Legacy</h2>
+        <ul>
+            <li>Founder of SpaceX, making space travel more accessible</li>
+            <li>CEO of Tesla, leading the electric vehicle revolution</li>
+            <li>Co-founder of Neuralink, advancing brain-computer interfaces</li>
+            <li>Creator of The Boring Company, tackling urban congestion</li>
+            <li>Visionary behind Starship, aiming for Mars colonization</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>Created by Amanda Waigumo • </p>
+    </footer>
+</body>
+</html>
